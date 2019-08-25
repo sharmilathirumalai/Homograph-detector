@@ -1,5 +1,5 @@
-## Homoglyph-detector
-   Based on IDN homograph attacks [1], a program to find all such domain names in a given set 'D' is implemented. Homographanes are identified by computing edit distance.
+## Homograph Detector
+   Based on IDN homograph attacks [1], a program to find all such domain names in a given set 'D' is implemented. Homoglyph characters are identified by using edit distance.
   
 **Note:** Hamming Distance can also be used to solve this problem.
    
